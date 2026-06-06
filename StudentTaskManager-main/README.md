@@ -295,7 +295,7 @@ Future updates can include:
 
 # 👨‍💻 Developer
 
-**Muhammad Asad Afzal**
+**Hamza Ali Khan**
 
 Information Engineering Technology Student  
 
