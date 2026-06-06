@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "StudentTaskManager",
+    "slug": "StudentTaskManager",
+    "version": "1.0.0",
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
